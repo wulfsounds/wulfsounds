@@ -47,7 +47,7 @@ I'm a graphic design enthusiast, aspiring web designer, and recent graduate of S
 ![adobe Xd](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ### Additional Technologies
-Procreate, Insomnia
+Procreate, Insomnia, Mongoose, Parallax
 
 ## Education
 SMU Coding Bootcamp, Class of Spring 2022
