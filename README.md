@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Dev!
 
-I'm a graphic design enthusiest and aspiring web designer currently attending SMU Code Bootcamp to develop skills utilizing the MERN stack and mySQL. I’ve always had a passion for graphic and web design since Tom was my first MySpace friend. Over the years, I’ve made a lot of show flyers, album covers, church bulletins, posters, tanning salon signs, and hand-drawn logos but web development is a rediscovery for me. Through the course of the bootcamp, my goal is to gain enough knowledge to be dangerous enough to build websites and applications that standout from the rest. Thanks for hanging out!
+I'm a graphic design enthusiast, aspiring web designer, and recent graduate of SMU Code Bootcamp to develop skills utilizing the MERN stack and mySQL. I’ve always had a passion for graphic and web design since Tom was my first MySpace friend. Over the years, I’ve made a lot of show flyers, album covers, church bulletins, posters, tanning salon signs, and hand-drawn logos but web development is a rediscovery for me. Through the course of the bootcamp, my goal is to gain enough knowledge to be dangerous enough to build websites and applications that standout from the rest. Thanks for hanging out!
 
 <img src="./src/images/contact.png" width="600px" alt="contact" />
 
@@ -34,12 +34,12 @@ I'm a graphic design enthusiest and aspiring web designer currently attending SM
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![chakra-ui](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 
 ## Technology
 
 ### Database
 ![mySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
 
 ### Design
 ![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
@@ -49,6 +49,10 @@ I'm a graphic design enthusiest and aspiring web designer currently attending SM
 ### Additional Technologies
 Procreate, Insomnia
 
-<!-- EDUCATION -->
-<!-- CONTACT/LINKS -->
+## Education
+SMU Coding Bootcamp, Class of Spring 2022
+
+## Links
+[LinkedIn](https://www.linkedin.com/in/devwulf/)
+
 <!-- MUSIC INFORMATION -->
