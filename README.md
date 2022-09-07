@@ -47,6 +47,7 @@ Procreate, Insomnia, Mongoose, Parallax
 
 ## Education
 SMU Coding Bootcamp, Class of Spring 2022
+The Odin Project (Continuing)
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/devwulf/)
