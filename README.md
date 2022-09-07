@@ -51,6 +51,7 @@ The Odin Project (Continuing)
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/devwulf/)
+
 [My Portfolio](https://wulf-folio.herokuapp.com/)
 
 <!-- MUSIC INFORMATION -->
