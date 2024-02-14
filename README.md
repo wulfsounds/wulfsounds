@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Dev!
 
-I'm a B2B Web Associate for Headspace Health, a freelance graphic designer, and musician. A lot of my professional work is made using Webflow and Contentful. What I have available are projects built for the sake of building and learning how to code more efficiently. My goal as a web designer is to rely less on content management systems, however useful, and gain a stronger knowledge of hand built code. 
+I'm a Dallas based UI designer and developer with over twenty years of combined graphic and web design. I am a contracted web designer for Headspace to assist and collaborate with the web marketing team. In 12 months of my tenure, I supported the renovation of the company’s brand architecture for 2024. As an expert in CMS-based apps and graphic design, I create digital experiences that increase access to wellness for the global community.
 
 Thanks for stopping by!
 
