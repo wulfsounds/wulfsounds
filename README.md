@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Dev!
 
-I'm a Dallas based UI designer and developer with over twenty years of combined graphic and web design. I am a contracted web designer for Headspace to assist and collaborate with the web marketing team. In 12 months of my tenure, I supported the renovation of the company’s brand architecture for 2024. As an expert in CMS-based apps and graphic design, I create digital experiences that increase access to wellness for the global community.
+I'm a Dallas based UI designer and developer with over twenty years of combined graphic and web design. I am a contracted web designer for ![Headspace](https://img.shields.io/badge/Headspace-F47D31.svg?style=for-the-badge&logo=Headspace&logoColor=white) to assist and collaborate with the web marketing team. In 12 months of my tenure, I supported the renovation of the company’s brand architecture for 2024. As an expert in CMS-based apps and graphic design, I create digital experiences that increase access to wellness for the global community.
 
 Thanks for stopping by!
 
@@ -32,10 +32,16 @@ Thanks for stopping by!
 
 ## Technology
 
+![Webflow](https://img.shields.io/badge/Webflow-146EF5.svg?style=for-the-badge&logo=Webflow&logoColor=white)
+![Contentful](https://img.shields.io/badge/Contentful-2478CC.svg?style=for-the-badge&logo=Contentful&logoColor=white)
+![jira](https://img.shields.io/badge/Jira%20Software-0052CC.svg?style=for-the-badge&logo=Jira-Software&logoColor=white)
+![asana](https://img.shields.io/badge/Asana-F06A6A.svg?style=for-the-badge&logo=Asana&logoColor=white)
+![google-analytics](https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white)
+
+
 ### Design
 ![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![adobe Xd](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Education
