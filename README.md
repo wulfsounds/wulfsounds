@@ -45,10 +45,10 @@ Thanks for stopping by!
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Education
-SMU Coding Bootcamp, Class of Spring 2022
-The Odin Project (Continuing)
+- SMU Coding Bootcamp, _Class of Spring 2022_
+- Webflow 101
+- Webflow CMS Certification, _Level 1_
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/devwulf/)
-
-<!-- MUSIC INFORMATION -->
+[Dribbble](https://www.dribbble.com/wulfsounds)
