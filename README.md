@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 # Hi, I'm Dev!
 
-I'm a Dallas based UI designer and developer with over twenty years of combined graphic and web design. I am a contracted web designer for ![Headspace](https://img.shields.io/badge/Headspace-F47D31.svg?style=for-the-badge&logo=Headspace&logoColor=white) to assist and collaborate with the web marketing team. In 12 months of my tenure, I supported the renovation of the company’s brand architecture for 2024. As an expert in CMS-based apps and graphic design, I create digital experiences that increase access to wellness for the global community.
+A Dallas-based creative web designer. My love for creative design is influenced by the music in my life. With 20 years of graphic design, I incorporate unique and immersive web pages for an eye catching experience.
+
+Let’s grab coffee and start a project.
 
 Thanks for stopping by!
 
@@ -45,10 +47,13 @@ Thanks for stopping by!
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Education
-- SMU Coding Bootcamp, _Class of Spring 2022_
-- Webflow 101
+- Full Stack Web Dev Cert., SMU Coding Bootcamp, _Class of Spring 2022_
+- Webflow 101 Certification
 - Webflow CMS Certification, _Level 1_
+- Webflow Layouts Certification, _Level 1_
+  
 
 ## Links
+[Portfolio](https://devwulf.squarespace.com/)
 [LinkedIn](https://www.linkedin.com/in/devwulf/)
-[Dribbble](https://www.dribbble.com/wulfsounds)
+[Dribbble](https://www.dribbble.com/wulfsounds)  
