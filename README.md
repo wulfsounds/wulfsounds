@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 # Hi, I'm Dev!
 
-A Dallas-based creative web designer. My love for creative design is influenced by the music in my life. With 20 years of graphic design, I incorporate unique and immersive web pages for an eye catching experience.
+I’m Dev, a Dallas based UI/Graphic designer with over twenty years of combined knowledge and growth. I have been designing for various artists, musicians, small businesses, and mental health tech professionally since 2018. 
 
-Let’s grab coffee and start a project.
+When I’m not designing, I’m generally out playing music at various venues throughout Texas or working on my next studio project. If you’re a creative looking for a fresh look or need artwork for your upcoming projects, let’s team up over drinks. 
 
 Thanks for stopping by!
 
