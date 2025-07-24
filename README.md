@@ -50,6 +50,7 @@ Thanks for stopping by!
 - Webflow 101 Certification
 - Webflow CMS Certification, _Level 1_
 - Webflow Layouts Certification, _Level 1_
+- Webflow Layouts Certification, _Level 2_
   
 
 ## Links
